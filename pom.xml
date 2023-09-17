@@ -42,8 +42,8 @@
             <scope>runtime</scope>
         </dependency>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
+            <groupid>org.springframework.boot</groupid>
+            <artifactid>spring-boot-starter-test</artifactid>
             <scope>test</scope>
         </dependency>
         <dependency>
